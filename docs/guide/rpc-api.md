@@ -480,8 +480,8 @@ ethereum
     params: {
       type: 'ERC20',
       options: {
-        address: '0xb60e8dd61c5d32be8058bb8eb970870f07233155',
-        symbol: 'FOO',
+        address: '0x9548f567Aa2bf71a6691B634F9808346C804c0D0',
+        symbol: 'Bsc',
         decimals: 18,
         image: 'https://foo.io/token-image.svg',
       },
